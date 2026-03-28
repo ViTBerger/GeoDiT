@@ -1,4 +1,4 @@
-# GeoDiT
+# GeoDiT: A Diffusion-based Vision-Language Model for Geospatial Understanding
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2512.02505)
 [![hf_model](https://img.shields.io/badge/🤗-Model-blue.svg)](https://huggingface.co/ViTBerger/GeoDiT)
@@ -34,4 +34,4 @@ Autoregressive models are structurally misaligned with the inherently parallel n
 
 ## Acknowledgement
 
-The initial weights of **RSThinker** are initialized from [LLaDA-V](https://github.com/ML-GSAI/LLaDA-V), we sincerely thank their effort for open-sourcing.
+The initial weights of **GeoDiT** are initialized from [LLaDA-V](https://github.com/ML-GSAI/LLaDA-V), we sincerely thank their effort for open-sourcing.
